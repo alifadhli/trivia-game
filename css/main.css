@@ -1,0 +1,74 @@
+
+
+.jumbotron {
+  box-sizing: border-box;
+  color: whitesmoke;
+  height: 600px;
+  background-color: rgba(0, 0, 0, 0);
+}
+
+.main-button-container {
+  margin-top: 175px;
+  max-width: 610px;
+  margin-left: auto;
+  margin-right: auto;
+}
+.img-right{
+im
+ }
+
+
+.timer-p {
+  margin-top: 40px;
+}
+
+.answer:hover {
+  background: pink;
+}
+
+.answer {
+  padding-top: 7px;
+  height: 45px;
+  color: black;
+  padding-left: 14px;
+  background-color: white;
+  border-radius: 4px;
+}
+
+.img-wrong {
+  margin-top: 40px;
+}
+
+.first-answer {
+  margin-top: 40px;
+}
+
+.reset-button {
+  margin-top: 40px;
+}
+
+.summary-correct {
+  margin-top: 40px;
+}
+
+body {
+  background: url(http://cdn1.wallpapersok.com/uploads/picture/628/187/187628/picture-187628.jpg?width=1920&height=1200&crop=true);
+  
+}
+#Footer-text {
+    color: #dff0d8;
+    text-align: center;
+    padding-right: 15px;
+    padding-left: 15px;
+    margin-right: auto;
+    margin-left: auto;
+}
+#center{
+
+    display: block;
+    margin-right: auto;
+    margin-left: auto;
+    size: 26px
+
+
+}
